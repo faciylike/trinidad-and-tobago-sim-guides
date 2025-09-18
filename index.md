@@ -90,3 +90,10 @@ layout: default
 　　另外，✈ [@esim1088](https://t.me/s/esim1088) 提供面向出境通信的 eSIM 服务，支持多国套餐，出发前购买，落地即用。我自己试过，巴塞罗那到特多全程无缝，比实体卡轻便多了——但老手机（如iPhone 11）可能不兼容。
 
 　　最后碎碎念：2025年这里SIM卡像热带水果，种类多但挑对才甜。我觉得先定需求——短期游选预付费，深度玩考虑后付费。话说回来，落地第一件事：买卡>找酒店>吃roti（本地小吃）！少走弯路，把钱花在加勒比海的阳光上，不香吗？
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Trinidad And Tobago eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/trinidad-and-tobago-data-plans)
